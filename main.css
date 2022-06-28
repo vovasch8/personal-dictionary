@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkslategray;
+    background-image: url(img/fone.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+#main-logo{
+    width: 100px;
+    height: 100px;
+    top: 10px;
+}
+
+table{
+    cursor: pointer;
+}
+#letter-select{
+    width: 75px!important;
+}
+
+#save-word{
+    width: 150px;
+}
+.bi-x-lg:hover{
+    color: red;
+}
